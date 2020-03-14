@@ -1,0 +1,14 @@
+{
+    "html": "text/html",
+    "htm": "text/html",
+    "js": "text/javascript",
+    "css": "text/css",
+    "png": "image/png",
+    "gif": "image/gif",
+    "json": "application/json",
+    "svg": "image/svg+xml",
+    "jpg": "image/jpeg",
+    "jpeg": "image/jpeg",
+    "xml": "application/xml",
+    "ico": "image/x-icon"
+  }
